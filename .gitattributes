@@ -1,15 +1,13 @@
 # Xojo (formerly REALbasic and Real Studio)
 
-Builds*
-*.debug
-*.debug.app
-Debug*.exe
-Debug*/Debug*.exe
-Debug*/Debug*\ Libs
-*.rbuistate
-*.xojo_uistate
-*.obsolete
-#* linguist-vendored
-#*.xojo_binary_project linguist-vendored=false
-#*.xojo_binary_project linguist-detectable=true
+#Builds*
+#*.debug
+#*.debug.app
+#Debug*.exe
+#Debug*/Debug*.exe
+#Debug*/Debug*\ Libs
+#*.rbuistate
+#*.xojo_uistate
+#*.obsolete
 *.xojo_binary_project linguist-language=Xojo
+*.xojo_xml_project linguist-language=Xojo
