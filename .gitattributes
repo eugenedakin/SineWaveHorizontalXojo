@@ -9,4 +9,7 @@ Debug*/Debug*\ Libs
 *.rbuistate
 *.xojo_uistate
 *.obsolete
-*.xojo_binary_project linguist-detectable=true
+* linguist-vendored
+#*.xojo_binary_project linguist-vendored=false
+#*.xojo_binary_project linguist-detectable=true
+*.xojo_binary_project linguist-language=Xojo
